@@ -8,10 +8,5 @@ Mani sauc Davids Slotovs un es macos DP1-4 gruppa.
 + programet  
 
 ---
-Es protu mazliet programet:  
-
-Dim S As Double 'summa'
-S = 0
-for i = 1 To UBound(arrA)
-	if arrA(i) < 0 Then S = S + arrA(i)
-Next i
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Faliradar.com%2Fitem%2F4000228888254-malenkaya-utka-avtomobil-slomannyy-veter-zheltaya-utka-so-shlemom-pod-davleniem-iznos-zerkalo-zadnego-vida-turbo-aksessuary-dlya-avtomobilya-interer&psig=AOvVaw26-5j-AB3Q8lzbGClOEvfG&ust=1612352392484000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjV-_WOy-4CFQAAAAAdAAAAABAE)
+Format: ![Alt Text](url)
