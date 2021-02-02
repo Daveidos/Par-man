@@ -8,4 +8,6 @@ Mani sauc Davids Slotovs un es macos DP1-4 gruppa.
 >programet  
 
 ---
-Manas atzimes:
+Es protu mazliet programet:  
+<x = 10
+print"x">
