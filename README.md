@@ -1,11 +1,11 @@
 # Par-man
 Mani sauc Davids Slotovs un es macos DP1-4 gruppa.
 ### Man patik:
->Spelet basketbolu  
+**Spelet basketbolu**  
 
->uzinat kau ko jaunu  
+**uzinat kau ko jaunu**  
 
->programet  
+**programet**  
 
 ---
 Es protu mazliet programet:  
