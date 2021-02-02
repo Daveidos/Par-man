@@ -8,7 +8,7 @@ Mani sauc Davids Slotovs un es macos DP1-4 gruppa.
 + programet  
 
 ---
-![Фото](C:\Users\sleto\OneDrive\Изображения\2MxVIZeoZGQ.jpg)
+emojize(":smile")
 
 
 
