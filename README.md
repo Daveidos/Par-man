@@ -9,5 +9,9 @@ Mani sauc Davids Slotovs un es macos DP1-4 gruppa.
 
 ---
 Es protu mazliet programet:  
-<x = 10
-print"x">
+
+Dim S As Double 'summa'
+S = 0
+for i = 1 To UBound(arrA)
+	if arrA(i) < 0 Then S = S + arrA(i)
+Next i
